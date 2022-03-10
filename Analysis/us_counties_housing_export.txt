@@ -1,0 +1,21 @@
+geo_name,state_us_abbreviation,housing_unit_count_100_percent
+Los Angeles County,CA,3445076
+Los Angeles County,CA,3445076
+Cook County,IL,2180359
+Cook County,IL,2180359
+Maricopa County,AZ,1639279
+Maricopa County,AZ,1639279
+Harris County,TX,1598698
+Harris County,TX,1598698
+San Diego County,CA,1164786
+San Diego County,CA,1164786
+Orange County,CA,1048907
+Orange County,CA,1048907
+Kings County,NY,1000293
+Kings County,NY,1000293
+Miami-Dade County,FL,989435
+Miami-Dade County,FL,989435
+Dallas County,TX,943257
+Dallas County,TX,943257
+King County,WA,851261
+King County,WA,851261

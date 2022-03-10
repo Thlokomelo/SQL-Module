@@ -1,0 +1,13 @@
+id|first_name|last_name|school|hire_date|salary
+1|Thlokomelo|Hlomuka|Erasmus HS|2011-10-30|36200
+2|kgoro|Tau|Sunward HS|1993-05-22|65000
+3|Phindile|Bapela|ST Peters Middle School|2005-08-01|43500
+4|Zandile|Sithole|Atlas Middle School|2011-10-30|36200
+5|Cathy|Modipa|Dreyer Middle School|2005-08-30|43500
+6|Jackson|Dames|Riggers HS|2010-10-22|38500
+7|Janet|Smith|F.D. Roosevelt HS|2011-10-30|36200
+8|Lee|Reynolds|F.D. Roosevelt HS|1993-05-22|65000
+9|Samuel|Cole|Myers Middle School|2005-08-01|43500
+10|Samantha|Bush|Myers Middle School|2011-10-30|36200
+11|Betty|Diaz|Myers Middle School|2005-08-30|43500
+12|Kathleen|Roush|F.D. Roosevelt HS|2010-10-22|38500
